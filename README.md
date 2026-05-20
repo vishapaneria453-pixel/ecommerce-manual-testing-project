@@ -17,4 +17,4 @@ Performed manual testing on SauceDemo application.
 - Test Plan
 - Test Cases
 - Bug Reports
-- RTM
+
